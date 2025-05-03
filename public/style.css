@@ -1,0 +1,21 @@
+body {
+    background-color: hsl(38, 37%, 84%);
+}
+h1 {
+    text-align:center;color:mediumseagreen;font-family:verdana
+}
+h2 {
+    text-align:center; color:mediumseagreen; font-family:verdana;
+}
+p {
+    text-align:center;
+}
+pre {
+    text-align:center;
+}
+div {
+    border: 5px solid powderblue;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto; /*this centered the box*/
+}
